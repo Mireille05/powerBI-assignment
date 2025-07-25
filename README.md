@@ -9,8 +9,7 @@ In data there's
 
 ## Docs folder
 1. Dashboard screenshot
-2. 
-3. Report : the description ,project overview ,methodology used, etc all are found in report.md
+2. Report : the description ,project overview ,methodology used, etc all are found in report.md
 
 ## Notebooks folder
 1.Data_analysis file : a python that shows data how data were analysed
