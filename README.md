@@ -17,14 +17,22 @@ In data there's
 
 ## PowerBI/Screenshots folder
 it contains all screenshots about :
+
 1.Time series analysis
+
 2.Time based visualization
+
 3.Boxplot
+
 4.Busiest month
 5.Histogram
+
 6.Fare_day
+
 7.Fare_hour
+
 8.Fare_week
+
 9.Fare_monthly
 10.Fare_distribution
 11.Rides_day
