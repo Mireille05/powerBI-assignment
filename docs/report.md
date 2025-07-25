@@ -45,7 +45,7 @@ This analytical report explores ride fare patterns, pickup/dropoff behavior, and
 - Max: `208`
 - Min: `0`
 
-> 🔍 Note: The dataset had extreme outliers, e.g., fares over `$400` and invalid GPS coordinates.
+>  Note: The dataset had extreme outliers, e.g., fares over `$400` and invalid GPS coordinates.
 
 ---
 
